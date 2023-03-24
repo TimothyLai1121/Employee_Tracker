@@ -3,7 +3,8 @@
 
 ### Video Demo
 
-![demo](./snippet/Challenge.mp4)
+![demo](./assets/demo/Challenge_12_Employee_Tracker.mp4)
+
 
 ### Description
 
