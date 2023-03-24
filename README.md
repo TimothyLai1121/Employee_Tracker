@@ -3,7 +3,7 @@
 
 ### Video Demo
 
-![demo](./assets/demo/Challenge.mp4)
+![demo](./assets/Challenge.gif)
 
 
 ### Description
