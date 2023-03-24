@@ -3,7 +3,7 @@
 
 ### Video Demo
 
-![demo](./assets/demo/Challenge_12_Employee_Tracker.mp4)
+![demo](./assets/demo/Challenge.mp4)
 
 
 ### Description
@@ -16,4 +16,9 @@ This Employee Tracker application users to interact with a MYSQL database contai
 
 The main menu of the application provides users with a list of options to choose from, including viewing employees, departments, and roles, adding new employees, departments, and roles, updating employee roles and departments, resetting the database, and exiting the application. The application uses console.table to display data in a formatted table and chalk to provide colored text output, making it easy to read and navigate.
 
-### 
+### NPM & Tools
+
+![carbon](./assets/carbon.png)
+
+![carbon2](./assets/carbon2.png)
+
