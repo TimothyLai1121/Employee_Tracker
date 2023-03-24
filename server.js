@@ -6,6 +6,8 @@
 // adding type module to package.json for import //
 // npm i ora //
 // adding console.clear since terminal was getting messy //
+// also using console.table to show the data in a table //
+
 
 import inquirer from "inquirer";
 import mysql from "mysql2";
