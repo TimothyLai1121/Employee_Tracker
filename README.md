@@ -3,8 +3,9 @@ Employee Tracking
 
 ## Video Demo
 
-![demo](./snippet/Challenge.mp4)
-
+<video width="480" height="320" controls="controls">
+  <source src="./snippet/Challenge.mp4.mp4" type="video/mp4">
+</video>
 
 ## Description
 
