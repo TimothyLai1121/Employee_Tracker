@@ -3,7 +3,7 @@ Employee Tracking
 
 ## Video Demo
 
-![demo](./snippet/Challenge_12_Employee_Tracker.mp4)
+![demo](./snippet/Challenge.mp4)
 
 
 ## Description
